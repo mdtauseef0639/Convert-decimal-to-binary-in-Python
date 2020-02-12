@@ -16,3 +16,4 @@ a=a[::-1]
 
 
 res = sum(d * 10**i for i, d in enumerate(a[::-1]))
+print(res)
